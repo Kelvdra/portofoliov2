@@ -1,31 +1,31 @@
 export const PORTFOLIO_CONFIG = {
-  name: "aka",
-  photoUrl: "https://raw.githubusercontent.com/akaanakbaik/my-cdn/main/portofolio/aka.jpg",
-  birthDate: "2009-11-17",
-  origin: "Sumatera Barat, Indonesia",
-  school: "SMAN 1 Lembah Melintang",
+  name: "Kelvdra",
+  photoUrl: "https://raw.githubusercontent.com/Kelvdra/whatsapp-media/main/file_1781092601647.jpg",
+  birthDate: "05-05",
+  origin: "Jawa Barat, Indonesia",
+  school: "SMKS BINA BANGSA MANDIRI",
   statusTexts: {
-    id: ["Murid", "Developer", "Pemula"],
-    en: ["Student", "Developer", "Beginner"]
+    id: ["Developer", "Pemula"],
+    en: ["Developer", "Beginner"]
   },
   aboutDesc: {
-    id: "Hai semua, nama ku aka, saya tinggal di Sumatra Barat, Indonesia. saya kelas 10 sekarang dan berumur 16 tahun, saya suka hal-hal berbau teknologi, pengetahuan alam, pemograman dan sebagainya. saya haus akan keingintahuan akan ilmu dan pengalaman. terimakasih :)",
+    id: "Hai semua, nama saya Kelvdra, saya tinggal di Jawa Barat, Indonesia. saya berumur 19 tahun, saya suka hal-hal berbau teknologi, pengetahuan alam, pemograman dan sebagainya. saya haus akan keingintahuan akan ilmu dan pengalaman. terimakasih :)",
     en: "Hey everyone, my name is Aka. I live in West Sumatra, Indonesia. I'm in 10th grade now and 16 years old. I love technology, natural science, programming, and so on. I'm thirsty for knowledge and new experiences. Thank you :)"
   },
   social: {
-    instagram: "https://instagram.com/kenal.aka",
-    facebook: "https://www.facebook.com/share/1Du3eA6rDY/",
-    github: "https://github.com/akaanakbaik",
-    youtube: "https://www.youtube.com/@always-aka",
-    telegram: "https://t.me/akamodebaik",
-    discord: "https://discord.com/akaanakbaik",
-    email: "mailto:khaliqarrasyidabdul@gmail.com"
+    instagram: "https://instagram.com/kelvdraa",
+    facebook: "https://www.facebook.com/",
+    github: "https://github.com/Kelvdra",
+    youtube: "https://www.youtube.com/-",
+    telegram: "https://t.me/draa82",
+    discord: "https://discord.com/",
+    email: "mailto:kelvdra46@gmail.com"
   },
   projects: [
     {
       id: "1",
       name: "Portofolio Pertama",
-      image: "https://raw.githubusercontent.com/akaanakbaik/my-cdn/main/portofolio/portofolio%20pertama.jpg",
+      image: "https://raw.githubusercontent.com/Kelvdra/whatsapp-media/main/file_1781092601647.jpg",
       desc: {
         id: "Web portofolio pertama yang ku buat dengan eyae",
         en: "My first portfolio website built with eyae"
