@@ -19,19 +19,19 @@
     "school": "Sekolah",
     "schoolValue": "SMKS Bina Bangsa Mandiri",
     "descTitle": "Hai!",
-    "desc": "Hai semua, nama ku Kelvdra. Saya tinggal di Jawa Barat, Indonesia. Saya Sudah dan berumur 16 tahun. Saya suka hal-hal berbau teknologi, pengetahuan alam, pemrograman dan sebagainya. Saya haus akan keingintahuan akan ilmu dan pengalaman. Terima kasih :)"
+    "desc": "Hai semua, nama ku Kelvdra. Saya tinggal di Jawa Barat, Indonesia. Saya Baru Lulus Sekolah dan berumur 19 tahun. Saya suka hal-hal berbau teknologi, pengetahuan alam, pemrograman dan sebagainya. Saya haus akan keingintahuan akan ilmu dan pengalaman. Terima kasih :)"
   },
   "timeline": {
     "title": "Riwayat Pendidikan",
-    "sd": "SD",
-    "mts": "MTS",
-    "sma": "SMA",
-    "sdName": "SDN 13 Lembah Melintang",
-    "mtsName": "MTsN 2 Pasaman Barat",
-    "smaName": "SMAN 1 Lembah Melintang",
-    "sdYear": "2016 - 2022",
-    "mtsYear": "2022 - 2025",
-    "smaYear": "2025 - Sekarang",
+    "sd": "MI",
+    "mts": "SMP",
+    "sma": "SMK",
+    "sdName": "Mi Miftahul Fallah",
+    "mtsName": "SMPN Negri 02",
+    "smaName": "SMKS Bina Bangsa Mandiri",
+    "sdYear": "2018 - 2021",
+    "mtsYear": "2020 - 2023",
+    "smaYear": "2023 - 2026",
     "education": "Pendidikan"
   },
   "stack": {
