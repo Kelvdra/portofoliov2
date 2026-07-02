@@ -13,30 +13,30 @@
   "about": {
     "title": "About Me",
     "age": "Age",
-    "ageValue": "16 Years Old",
-    "origin": "Origin",
-    "originValue": "West Sumatra, Indonesia",
+    "ageValue": "19 Years Old",
+    "origin": "From",
+    "originValue": "West Java, Indonesia",
     "school": "School",
-    "schoolValue": "SMAN 1 Lembah Melintang",
-    "descTitle": "Hey!",
-    "desc": "Hey everyone, my name is Aka. I live in West Sumatra, Indonesia. I'm in 10th grade now and 16 years old. I love technology, natural science, programming, and so on. I'm thirsty for knowledge and new experiences. Thank you :)"
+    "schoolValue": "SMKS Bina Bangsa Mandiri",
+    "descTitle": "Hi!",
+    "desc": "Hi everyone, my name is Kelvdra. I live in West Java, Indonesia. I just graduated from school and I'm 19 years old. I like anything related to technology, natural sciences, programming, and so on. I'm thirsty for knowledge and experience. Thank you :)"
   },
   "timeline": {
-    "title": "Education Timeline",
+    "title": "Education History",
     "sd": "Elementary",
     "mts": "Junior High",
-    "sma": "Senior High",
-    "sdName": "SDN 13 Lembah Melintang",
-    "mtsName": "MTsN 2 Pasaman Barat",
-    "smaName": "SMAN 1 Lembah Melintang",
-    "sdYear": "2016 - 2022",
-    "mtsYear": "2022 - 2025",
-    "smaYear": "2025 - Present",
+    "sma": "Vocational High",
+    "sdName": "MI Miftahul Fallah",
+    "mtsName": "SMPN 02",
+    "smaName": "SMKS Bina Bangsa Mandiri",
+    "sdYear": "2018 - 2021",
+    "mtsYear": "2020 - 2023",
+    "smaYear": "2023 - 2026",
     "education": "Education"
   },
   "stack": {
     "title": "Tech Stack",
-    "subtitle": "Since I enjoy programming a bit, I have a stack I'm fairly familiar with — not an expert though.",
+    "subtitle": "Because I like a bit of programming, I have a stack that I know quite well — not an expert.",
     "programming": "Programming",
     "framework": "Framework",
     "tools": "Tools"
@@ -47,8 +47,8 @@
     "joinGroup": "Join Group"
   },
   "friends": {
-    "title": "My Friends",
-    "subtitle": "Friends who have helped me in the world of technology and programming"
+    "title": "Friends",
+    "subtitle": "My friends who help me in the world of technology and programming"
   },
   "social": {
     "title": "Social Media",
@@ -66,9 +66,9 @@
     "send": "Send Message",
     "sending": "Sending...",
     "successTitle": "Message Sent!",
-    "successDesc": "Thank you for your message. I'll get back to you soon.",
+    "successDesc": "Thank you for your message. I will reply to it soon.",
     "errorTitle": "Failed to Send",
-    "errorDesc": "An error occurred while sending. Please try again."
+    "errorDesc": "An error occurred while sending the message. Please try again."
   },
   "footer": {
     "built": "Built with ❤️ and code"
@@ -83,7 +83,7 @@
     "visitors": "Visitors",
     "totalVisits": "Total Visits",
     "todayVisits": "Today's Visits",
-    "langStats": "Language Statistics",
+    "langStats": "Language Stats",
     "settings": "Settings",
     "save": "Save",
     "cancel": "Cancel",
@@ -92,7 +92,7 @@
     "aboutSettings": "About Settings",
     "techSettings": "Tech Stack Settings",
     "projectSettings": "Project Settings",
-    "friendSettings": "Friends Settings",
+    "friendSettings": "Friend Settings",
     "socialSettings": "Social Media Settings",
     "audioSettings": "Audio Settings"
   }
