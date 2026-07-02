@@ -10,8 +10,8 @@ export const PORTFOLIO_CONFIG = {
   },
   aboutDesc: {
     id: "Hai semua, nama saya Kelvdra, saya tinggal di Jawa Barat, Indonesia. saya berumur 19 tahun, saya suka hal-hal berbau teknologi, pengetahuan alam, pemograman dan sebagainya. saya haus akan keingintahuan akan ilmu dan pengalaman. terimakasih :)",
-    en: "Hey everyone, my name is Aka. I live in West Sumatra, Indonesia. I'm in 10th grade now and 16 years old. I love technology, natural science, programming, and so on. I'm thirsty for knowledge and new experiences. Thank you :)"
-  },
+    en: "Hi everyone, my name is Kelvdra. I live in West Java, Indonesia. I’m 19 years old. I like anything related to technology, natural sciences, programming, and so on. I’m thirsty for knowledge and experience. Thank you :)"
+},
   social: {
     instagram: "https://instagram.com/kelvdraa",
     facebook: "https://www.facebook.com/",
@@ -30,7 +30,7 @@ export const PORTFOLIO_CONFIG = {
         id: "Web portofolio pertama yang ku buat dengan eyae",
         en: "My first portfolio website built with eyae"
       },
-      url: "https://akadev.me",
+      url: "https://kelvdra.my.id",
       buttonType: "view"
     },
     {
@@ -89,7 +89,7 @@ export const PORTFOLIO_CONFIG = {
       buttonType: "view"
     }
   ],
-  friends: ["habibi", "youso", "hydra", "kyzz", "adit", "indra", "juul", "udin", "royy", "aldy", "junz", "fakhrul", "raol"],
+  friends: ["youso", "aka", "vreden", "faisal", "rijal", "udin"],
   techStack: {
     programming: ["html5", "css3", "js", "typescript", "python", "php", "go"],
     framework: ["vitejs", "react", "tailwindcss", "bootstrap5", "nextjs", "threejs", "nodejs", "expressjs"],
