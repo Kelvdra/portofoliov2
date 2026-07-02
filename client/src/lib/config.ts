@@ -98,8 +98,8 @@ export const PORTFOLIO_CONFIG = {
   playlist: [
     {
       id: "1",
-      title: "8 Laters",
-      url: "https://raw.githubusercontent.com/akaanakbaik/my-cdn/main/portofolio/8laters.mp3"
+      title: "Sesi Potret",
+      url: "https://raw.githubusercontent.com/Kelvdra/whatsapp-media/main/file_1782972575085.mp3"
     },
     {
       id: "2",
